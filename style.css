@@ -69,6 +69,7 @@ button{
     letter-spacing: 1px;
     font-size: inherit;
     transition: all 0.3s; /*whenever color changes it should take x seconds*/
+    outline: none;
 }
 
 button:hover{
